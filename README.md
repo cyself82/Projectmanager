@@ -1,1 +1,4 @@
-# Projectmanager
+# Projectmanager 프로젝트 매니저 과정
+
+교육기간
+2023.08.10~2023.11.10
